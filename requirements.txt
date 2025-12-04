@@ -3,3 +3,7 @@ matplotlib
 geopandas
 numpy
 requests
+scipy
+statsmodels
+seaborn
+tabulate
