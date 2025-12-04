@@ -1,0 +1,208 @@
+CODE: PRECSNOLAND 
+NAME:Snow Precipitation Land 
+DESCRIPTION:The snow precipitation only over land at the surface of the earth.
+
+CODE: PRECTOTCORR 
+NAME:Precipitation Corrected 
+DESCRIPTION:The bias corrected average of total precipitation at the surface of the earth in water mass (includes water content in snow).
+
+CODE: PS 
+NAME:Surface Pressure 
+DESCRIPTION:The average of surface pressure at the surface of the earth.
+
+CODE: QV10M 
+NAME:Specific Humidity at 10 Meters 
+DESCRIPTION:The ratio of the mass of water vapor to the total mass of air at 10 meters (kg water/kg total air).
+
+CODE: QV2M 
+NAME:Specific Humidity at 2 Meters 
+DESCRIPTION:The ratio of the mass of water vapor to the total mass of air at 2 meters (kg water/kg total air).
+
+CODE: RH2M 
+NAME:Relative Humidity at 2 Meters 
+DESCRIPTION:The ratio of actual partial pressure of water vapor to the partial pressure at saturation, expressed in percent.
+
+CODE: SNODP 
+NAME:Snow Depth 
+DESCRIPTION:The snow depth on land at surface of the earth.
+
+CODE: T2M 
+NAME:Temperature at 2 Meters 
+DESCRIPTION:The average air (dry bulb) temperature at 2 meters above the surface of the earth.
+
+CODE: TS 
+NAME:Earth Skin Temperature 
+DESCRIPTION:The average temperature at the earth's surface.
+
+CODE: U10M 
+NAME:Eastward Wind at 10 Meters 
+DESCRIPTION:The estimate of the eastward wind average speed for winds blowing 10 meters above the surface of the earth.
+
+CODE: U2M 
+NAME:Eastward Wind at 2 Meters 
+DESCRIPTION:The estimate of the eastward wind average speed for winds blowing 2 meters above the surface of the earth.
+
+CODE: U50M 
+NAME:Eastward Wind at 50 Meters 
+DESCRIPTION:The estimate of the eastward wind average speed for winds blowing 50 meters above the surface of the earth.
+
+CODE: V10M 
+NAME:Northward Wind at 10 Meters 
+DESCRIPTION:The estimate of the northward wind average speed for winds blowing 10 meters above the surface of the earth.
+
+CODE: V2M 
+NAME:Northward Wind at 2 Meters 
+DESCRIPTION:The estimate of the northward wind average speed for winds blowing 2 meters above the surface of the earth.
+
+CODE: V50M 
+NAME:Northward Wind at 50 Meters 
+DESCRIPTION:The estimate of the northward wind average speed for winds blowing 50 meters above the surface of the earth.
+
+CODE: PSC 
+NAME:Corrected Atmospheric Pressure (Adjusted For Site Elevation) 
+DESCRIPTION:Atmospheric pressure associated with the MERRA-2 grid has been adjusted based upon the difference between the elevation of an underlying surface site and the average elevation of the MERRA-2 grid cell.
+
+CODE: T2MDEW 
+NAME:Dew/Frost Point at 2 Meters 
+DESCRIPTION:The dew/frost point temperature at 2 meters above the surface of the earth.
+
+CODE: T2MWET 
+NAME:Wet Bulb Temperature at 2 Meters 
+DESCRIPTION:The adiabatic saturation temperature which can be measured by a thermometer covered in a water-soaked cloth over which air is passed at 2 meters above the surface of the earth.
+
+CODE: WD10M 
+NAME:Wind Direction at 10 Meters 
+DESCRIPTION:The average of the wind direction at 10 meters above the surface of the earth.
+
+CODE: WD2M 
+NAME:Wind Direction at 2 Meters 
+DESCRIPTION:The average of the wind direction at 2 meters above the surface of the earth.
+
+CODE: WD50M 
+NAME:Wind Direction at 50 Meters 
+DESCRIPTION:The average of the wind direction at 50 meters above the surface of the earth.
+
+CODE: WS10M 
+NAME:Wind Speed at 10 Meters 
+DESCRIPTION:The average of wind speed at 10 meters above the surface of the earth.
+
+CODE: WS2M 
+NAME:Wind Speed at 2 Meters 
+DESCRIPTION:The average of wind speed at 2 meters above the surface of the earth.
+
+CODE: WS50M 
+NAME:Wind Speed at 50 Meters 
+DESCRIPTION:The average of wind speed at 50 meters above the surface of the earth.
+
+CODE: WSC 
+NAME:Corrected Wind Speed (Adjusted For Elevation) 
+DESCRIPTION:Wind speed associated with the MERRA-2 grid adjusted using the Gipe Power Law and the elevation difference between the average elevation of the grid cell and the elevation of the underlying surface.
+
+CODE: ALLSKY_SFC_LW_DWN 
+NAME:All Sky Surface Longwave Downward Irradiance 
+DESCRIPTION:The downward thermal infrared irradiance under all sky conditions reaching a horizontal plane the surface of the earth. Also known as Horizontal Infrared Radiation Intensity from Sky.
+
+CODE: ALLSKY_SFC_SW_DIFF 
+NAME:All Sky Surface Shortwave Diffuse Irradiance 
+DESCRIPTION:The diffuse (light energy scattered out of the direction of the sun) solar irradiance incident on a horizontal plane at the surface of the earth under all sky conditions.
+
+CODE: ALLSKY_SFC_SW_DWN 
+NAME:All Sky Surface Shortwave Downward Irradiance 
+DESCRIPTION:The total solar irradiance incident (direct plus diffuse) on a horizontal plane at the surface of the earth under all sky conditions. An alternative term for the total solar irradiance is the "Global Horizontal Irradiance" or GHI.
+
+CODE: ALLSKY_SFC_UV_INDEX 
+NAME:All Sky Surface UV Index 
+DESCRIPTION:The ultraviolet radiation exposure index.
+
+CODE: ALLSKY_SFC_UVA 
+NAME:All Sky Surface UVA Irradiance 
+DESCRIPTION:The ultraviolet A (UVA 315nm-400nm) irradiance under all sky conditions.
+
+CODE: ALLSKY_SFC_UVB 
+NAME:All Sky Surface UVB Irradiance 
+DESCRIPTION:The ultraviolet B (UVB 280nm-315nm) irradiance under all sky conditions.
+
+CODE: AOD_55 
+NAME:Aerosol Optical Depth 55 
+DESCRIPTION:The optical thickness at 0.55 um measured vertically; the component of the atmosphere to quantify the removal of radiant energy from an incident beam.
+
+CODE: AOD_84 
+NAME:Aerosol Optical Depth 84 
+DESCRIPTION:The optical thickness at 0.84 um measured vertically; the component of the atmosphere to quantify the removal of radiant energy from an incident beam.
+
+CODE: CLOUD_AMT 
+NAME:Cloud Amount 
+DESCRIPTION:The average percent of cloud amount during the temporal period.
+
+CODE: CLOUD_OD 
+NAME:Cloud Optical Visible Depth 
+DESCRIPTION:The vertical optical thickness between the top and bottom of a cloud.
+
+CODE: CLRSKY_SFC_LW_DWN 
+NAME:Clear Sky Surface Longwave Downward Irradiance 
+DESCRIPTION:The downward thermal infrared irradiance under clear sky conditions reaching a horizontal plane the surface of the earth. Also known as Horizontal Infrared Radiation Intensity from Sky.
+
+CODE: CLRSKY_SFC_SW_DIFF 
+NAME:Clear Sky Surface Shortwave Downward Diffuse Horizontal Irradiance 
+DESCRIPTION:The diffuse (light energy scattered out of the direction of the sun) solar irradiance incident on a horizontal plane at the surface of the earth under clear sky conditions.
+
+CODE: CLRSKY_SFC_SW_DWN 
+NAME:Clear Sky Surface Shortwave Downward Irradiance 
+DESCRIPTION:The total solar irradiance incident (direct plus diffuse) on a horizontal plane at the surface of the earth under clear sky conditions. An alternative term for the total solar irradiance is the "Global Horizontal Irradiance" or GHI.
+
+CODE: PW 
+NAME:Precipitable Water 
+DESCRIPTION:The total atmospheric water vapor contained in a vertical column of the atmosphere.
+
+CODE: SZA 
+NAME:Solar Zenith Angle 
+DESCRIPTION:The angle between the geodetic zenith vector and a vector from the earth point to the sun integrated over the period.
+
+CODE: TOA_SW_DWN 
+NAME:Top-Of-Atmosphere Shortwave Downward Irradiance 
+DESCRIPTION:The total solar irradiance incident (direct plus diffuse) on a horizontal plane at the top of the atmosphere (extraterrestrial radiation).
+
+CODE: ALLSKY_KT 
+NAME:All Sky Insolation Clearness Index 
+DESCRIPTION:A fraction representing clearness of the atmosphere; the all sky insolation that is transmitted through the atmosphere to strike the surface of the earth divided by the average of top of the atmosphere total solar irradiance incident.
+
+CODE: ALLSKY_NKT 
+NAME:All Sky Normalized Insolation Clearness Index 
+DESCRIPTION:The average zenith angle-independent expression of the all sky insolation clearness index.
+
+CODE: ALLSKY_SFC_PAR_TOT 
+NAME:All Sky Surface PAR Total 
+DESCRIPTION:The total Photosynthetically Active Radiation (PAR) incident on a horizontal plane at the surface of the earth under all sky conditions.
+
+CODE: ALLSKY_SFC_SW_DNI 
+NAME:All Sky Surface Shortwave Downward Direct Normal Irradiance 
+DESCRIPTION:The direct solar irradiance incident to a horizontal plane normal (perpendicular) to the direction of the sun's position under all sky conditions.
+
+CODE: ALLSKY_SRF_ALB 
+NAME:All Sky Surface Albedo 
+DESCRIPTION:The all sky rate of reflectivity of the earth's surface; the ratio of the solar energy reflected by the surface of the earth compared to the total solar energy incident reaching the surface of the earth.
+
+CODE: CLRSKY_KT 
+NAME:Clear Sky Insolation Clearness Index 
+DESCRIPTION:A fraction representing clearness of the atmosphere; the clear sky insolation that is transmitted through the atmosphere to strike the surface of the earth divided by the average of top of the atmosphere total solar irradiance incident.
+
+CODE: CLRSKY_NKT 
+NAME:Clear Sky Normalized Insolation Clearness Index 
+DESCRIPTION:The average zenith angle-independent expression of the clear sky insolation clearness index.
+
+CODE: CLRSKY_SFC_PAR_TOT 
+NAME:Clear Sky Surface PAR Total 
+DESCRIPTION:The total Photosynthetically Active Radiation (PAR) incident on a horizontal plane at the surface of the earth under clear sky conditions.
+
+CODE: CLRSKY_SFC_SW_DNI 
+NAME:Clear Sky Surface Shortwave Downward Direct Normal Irradiance 
+DESCRIPTION:The direct solar irradiance incident to a horizontal plane normal (perpendicular) to the direction of the sun's position under clear sky conditions.
+
+CODE: CLRSKY_SRF_ALB 
+NAME:Clear Sky Surface Albedo 
+DESCRIPTION:The clear sky rate of reflectivity of the earth's surface; the ratio of the solar energy reflected by the surface of the earth compared to the total solar energy incident reaching the surface of the earth.
+
+CODE: TOA_SW_DNI 
+NAME:Top-Of-Atmosphere Shortwave Direct Normal Radiation 
+DESCRIPTION:The total solar irradiance incident (direct plus diffuse) on a horizontal plane where oriented to the sun's position at the top of the atmosphere (extraterrestrial radiation).
+
