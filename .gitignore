@@ -1,5 +1,6 @@
-NASA Power QC 2001-2024/Structured
-NASA Power QC 2001-2024/Unstructured
+NASA Power * 2001-2024/Structured
+NASA Power * 2001-2024/Unstructured
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
